@@ -14,8 +14,8 @@ The programs progress from basic C++ programming concepts to classes, constructo
 | **Branch** | Electronics and Communication Engineering |
 | **Semester** | VII |
 | **Division** | F |
-| **USN** |  | 01FE23BEC337|
-| **ROLLNO**|  |638|
+| **USN** |  | 01FE23BEC337 |
+| **ROLLNO**|  | 638 |
 
 ---
 
