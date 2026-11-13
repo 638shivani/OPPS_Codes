@@ -21,7 +21,7 @@ public:
      //marks=a;
      //sgpa=s;
     }
-    getData()
+    getData() // display
     {
 
         cout<<"the marks"<<marks <<endl;
